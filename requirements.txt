@@ -1,0 +1,6 @@
+streamlit
+rdkit>=2023.03.1
+pandas
+plotly
+numpy
+scikit-learn
